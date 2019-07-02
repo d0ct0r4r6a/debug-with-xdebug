@@ -1,1 +1,1 @@
-2 demonstrasi untuk menunjukkan pemakaian dasar Xebug
+2 demonstrasi untuk menunjukkan pemakaian dasar Xdebug
