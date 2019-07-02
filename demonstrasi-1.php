@@ -26,9 +26,6 @@ $test_string = append_string("world");
 
 <?php
 
-var_dump($test_string);
-die;
-
 if ($test_string === "Hello, world") {
   echo "Hello, world";
 } else {
